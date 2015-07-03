@@ -6,13 +6,13 @@
 
 ##### Resources
 
-(Gemfile explanation by bundler)[http://bundler.io/v1.5/gemfile.html]
+[Gemfile explanation by bundler](http://bundler.io/v1.5/gemfile.html)
 
-(Getting Started with Rspec)[http://gregelizondo.github.io/2014/03/03/getting-started-with-rspec-and-unit-testing.html]
+[Getting Started with Rspec](http://gregelizondo.github.io/2014/03/03/getting-started-with-rspec-and-unit-testing.html)
 
-(Rspec documentation)[http://rspec.info/documentation/]
+[Rspec documentation](http://rspec.info/documentation/)
 
-(Gem Versioning and Bundler: Doing it Right)[http://yehudakatz.com/2011/05/30/gem-versioning-and-bundler-doing-it-right/]
+[Gem Versioning and Bundler: Doing it Right](http://yehudakatz.com/2011/05/30/gem-versioning-and-bundler-doing-it-right/)
 
 
 ##### Beginning barebones:
@@ -32,9 +32,11 @@ which creates a Gemfile.lock
 
 ##### Gitignore and onwards
 
-(Understanding .gitignore from github)[https://help.github.com/articles/ignoring-files/]
+[Understanding .gitignore from github](https://help.github.com/articles/ignoring-files/)
 
-(.gitignore)[http://git-scm.com/docs/gitignore]
+[.gitignore](http://git-scm.com/docs/gitignore)
+
+
 
 
 ### Miscellaneous setup steps
