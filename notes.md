@@ -29,3 +29,13 @@ Then run:
 
 which creates a Gemfile.lock
 
+
+##### Gitignore and onwards
+
+(Understanding .gitignore from github)[https://help.github.com/articles/ignoring-files/]
+
+(.gitignore)[http://git-scm.com/docs/gitignore]
+
+
+### Miscellaneous setup steps
+
