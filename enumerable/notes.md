@@ -8,3 +8,8 @@
 
 [Lazy in ruby](http://patshaughnessy.net/2013/4/3/ruby-2-0-works-hard-so-you-can-be-lazy)
 
+
+### Lambdas and procs
+
+[Lambdas and procs](http://www.reactive.io/tips/2008/12/21/understanding-ruby-blocks-procs-and-lambdas/)
+

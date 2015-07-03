@@ -1,0 +1,15 @@
+Syntax for declaring a subclass,class Child < Parent
+Method to find the superclass of a class,klass.superclass
+What is the superclass of Object?,BasicObject
+What is the superclass of BasicObject?,nil
+How to initialize a parent class in a child class?,call 'super' inside of child's initialize
+What are modules?,"Grouping together of methods, classes, and constants.  Allows for namespacing"
+Syntax for calling a constant from a module,ModuleName::CONSTANT
+What is a mixin?,Using modules to include outside behavior
+How to mix in a module?,include ModuleName
+How to mix in a module from another file?,require 'filepath'
+Is ruby single or multiple inheritance?,single
+Behavior of instance variables in a mixin,Instance variables inside of a module can be used by a class who has mixed in the module
+Which method name is used if there are multiple?,First the host class is checked then the modules included in reverse order
+What method should be implemented to be called when a module is included?,def self.included(base)
+How to add class methods from a module to a class?,base.extend(ClassMethods) where ClassMethods is the name of the module with the class methods to be added
