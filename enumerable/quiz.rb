@@ -9,6 +9,7 @@ class Quiz
     class BadFileFormat < StandardError; end
     
     def initialize(file_name)
+        # TODO: Pass in some kind of io stream instead of opening & reading csv in the quiz
         @questions = []
         File.open(file_name, 'r') do |file|
             while line = file.gets
